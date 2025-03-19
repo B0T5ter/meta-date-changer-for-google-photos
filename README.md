@@ -1,5 +1,4 @@
 ﻿# meta-date-changer-for-google-photos
-# meta-date-changer-for-google-photos
 
 This program allows you to change the creation date of a photo and the EXIF date based on the filename. The program supports `.jpg` and `.jpeg` formats. The filename must include the date in the `YYYYMMDD_HHMMSS` format, e.g., `20250302_153020.jpg`. This date will be used to set both the file's creation date and the EXIF date.
 
